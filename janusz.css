@@ -1,0 +1,54 @@
+a, a:link {
+	color: #ffffff;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0099ff;
+	text-decoration: none;
+
+}
+
+body {
+	background-color: #000000;
+	
+}
+	
+.buttons {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	line-height: 12px;
+}
+
+.aNameSmall {
+	font-family: "Helvetica 65 Medium";
+	font-size: 12px;
+	color: #000000;
+	letter-spacing: normal;
+	word-spacing: normal;
+	font-weight: normal;
+}
+
+.bodyText2 {
+	font-family: "Helvetica 65 Medium";
+	font-size: 14px;
+	color: #FFFFFF;
+	letter-spacing: 0.01em;
+	line-height: 15px;
+
+}
+.sponsor {
+	font-family: "Helvetica 65 Medium";
+	font-size: 14px;
+	font-weight: normal;
+	color: #FFFFFF;
+	line-height: 17px;
+}
+.title {
+	font-family: "Helvetica 65 Medium";
+	font-size: 16px;
+	color: #FFFFFF;
+}
